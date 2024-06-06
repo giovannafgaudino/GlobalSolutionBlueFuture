@@ -1,15 +1,15 @@
-import oceans20Logo from '../../../public/svgs/Oceans20.svg' 
+import oceans20Logo from '../../../public/svgs/Oceans20.svg'
 import AWS from '../../../public/svgs/AWS (1).svg'
 import selectSolucoes from '../../../public/svgs/select.svg'
 import unesco from '../../../public/svgs/unesco.svg'
 import softtek from '../../../public/svgs/softtek.svg'
 import unGlobal from '../../../public/svgs/unGlobalCompact.svg'
 
-function Footer(){
-    return(
+function Footer() {
+    return (
         <>
-        <footer>
-        <section className='footer'>
+            <footer>
+                <section className='footer'>
                     <div className="parceiros-content">
                         <div className='logo-parceiros'>
                             <img src={oceans20Logo} alt="" />
@@ -41,7 +41,7 @@ function Footer(){
                         <p>COPYRIGHT © 2024 </p>
                     </div>
                 </section>
-        </footer>
+            </footer>
         </>
     )
 }
