@@ -15,7 +15,7 @@ Entrega de Front-End Design e Web Development
 O Desafio de "Inovação Azul" 2024 incentiva os estudantes, entusiasras de tecnologia, inovação e sustentabilidade, a contribuir para soluções que promovam uma gestão sustentável dos oceanos.
 O objetivo no nosso projeto é alertar e informar as populações costeiras e as empresas que utilizam os mares para existência e subsistência sobre a saúde dos oceanos. 
 
-Link do site hospedado: [Onda Consciente](https://ondaconscientefiap.netlify.app/)
+Link do site: [Onda Consciente](https://ondaconscientefiap.netlify.app/)
 
 #### Aspectos Técnicos do Site: 
 <ul>
