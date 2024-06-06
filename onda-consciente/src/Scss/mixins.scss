@@ -1,0 +1,56 @@
+@mixin pd-mg-default($pd-default, $mg-default) {
+    padding: $pd-default;
+    margin: $mg-default;
+}
+@mixin div-size($w, $h){
+    width: $w;
+    height: $h;
+}
+@mixin div-style($bg-color, $color){
+    background-color: $bg-color;
+    color: $color;
+}
+@mixin flex-config($direction, $justify, $align){
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+    align-items: $align;
+}
+@mixin align-center($aligin: center, $justify: center){
+    align-items: $aligin;
+    justify-content: $justify;
+}
+@mixin sizings($w:80%, $m: 0 auto){
+    width: $w;
+    margin: $m;
+}
+@mixin px($pl, $pr){
+    padding-left: $pl;
+    padding-right: $pr;
+}
+@mixin py($pt, $pb){
+    padding-top: $pt;
+    padding-bottom: $pb;
+}
+@mixin mx($ml, $mr){
+    margin-left: $ml;
+    margin-right: $mr;
+}
+@mixin my($mt, $mB){
+    margin-top: $mt;
+    margin-bottom: $mB;
+}
+
+@mixin breakpoint($point) {
+    @if $point == small {
+      @media (max-width: 576px) { @content; }
+    } @else if $point == medium {
+      @media (min-width: 577px) and (max-width: 768px) { @content; }
+    } @else if $point == large {
+      @media (min-width: 769px) { @content; }
+    } 
+  }
+
+  @mixin hidden(){
+    display: none
+}

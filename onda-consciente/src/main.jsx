@@ -6,7 +6,7 @@ import Home from './Pages/Home/Home.jsx'
 import Sobre from './Pages/Sobre/Sobre.jsx'
 import Login from './Pages/Login/Login.jsx'
 import Contato from './Pages/Contato/Contato.jsx'
-
+import './Scss/style.css'
 const router = createBrowserRouter([
   {
     path: '/', 
