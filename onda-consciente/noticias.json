@@ -1,0 +1,46 @@
+{
+    "noticias": [
+      {
+        "titulo": "Oceanos mais quentes desencadeiam desastres climáticos",
+        "descricao": "Mudanças climáticas aquecem os oceanos, causando ondas de calor, secas e incêndios florestais, afetando a vida marinha e áreas costeiras.",
+        "imagem": "https://besjournals.onlinelibrary.wiley.com/cms/asset/5373d6ab-a2a9-4b68-b41d-bd21cb34e792/jane13147-toc-0001-m.jpg",
+        "fonte": "Phys.org",
+        "resumo": "Oceanos mais quentes desencadeiam desastres climáticos globais, afetando a vida marinha e áreas costeiras."
+      },
+      {
+        "titulo": "Calor recorde dos oceanos traz devastação",
+        "descricao": "O Oceano Atlântico aquece sem precedentes, prevendo uma temporada de furacões ativa, branqueamento de corais e redução do gelo marinho na Antártida.",
+        "imagem": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/04/042524_no_ocean-heat_feat.jpg?resize=1380%2C776&ssl=1",
+        "fonte": "Science News",
+        "resumo": "Calor recorde dos oceanos traz devastação, afetando furacões, corais e gelo marinho."
+      },
+      {
+        "titulo": "Pescarias costeiras resistem a ondas de calor",
+        "descricao": "Pesquisas sugerem que pescarias costeiras são mais resilientes às ondas de calor marinhas do que se pensava, indicando adaptação de algumas espécies marinhas.",
+        "imagem": "https://s2.glbimg.com/ScaIGcNMt7PTXEtaTQPbuobdogs=/780x440/e.glbimg.com/og/ed/f/original/2018/12/08/peixe-pesca.jpg",
+        "fonte": "ScienceDaily",
+        "resumo": "Pescarias costeiras resistem a ondas de calor marinhas, sugerindo adaptação de espécies marinhas."
+      },
+      {
+        "titulo": "Pradarias marinhas expandem perto das Maldivas",
+        "descricao": "Apesar dos desafios climáticos, pradarias marinhas nas Maldivas se expandem, oferecendo habitat vital e combatendo a erosão costeira.",
+        "imagem": "https://cdn.downtoearth.org.in/library/large/2024-05-17/0.63803800_1715928702_istock-479734566.jpg",
+        "fonte": "Phys.org",
+        "resumo": "Pradarias marinhas expandem perto das Maldivas, oferecendo habitat vital e combatendo a erosão costeira."
+      },
+      {
+        "titulo": "Microplásticos prejudicam capacidade do oceano de sequestrar carbono",
+        "descricao": "Estudos mostram que microplásticos impactam a capacidade do oceano de sequestrar carbono, agravando as mudanças climáticas e afetando a vida marinha.",
+        "imagem": "https://super.abril.com.br/wp-content/uploads/2023/07/0713_plastico_layout_site.jpg?crop=1&resize=1212,909",
+        "fonte": "Phys.org",
+        "resumo": "Microplásticos prejudicam capacidade do oceano de sequestrar carbono e afetam vida marinha."
+      },
+      {
+        "titulo": "Nasa estuda águas do Planeta Terra do espaço",
+        "descricao": "Missão internacional liderada pela Nasa realizará pesquisa das águas da Terra, monitorando oceanos, lagos e rios para entender mudanças climáticas.",
+        "imagem": "https://redeondadigital.com.br/wp-content/uploads/2022/12/rede_onda_digital_nasa_terra-768x576.jpg",
+        "fonte": "Rede Onda Digital",
+        "resumo": "Nasa lidera missão de pesquisa das águas da Terra do espaço para entender mudanças climáticas."
+      }
+    ]
+}
