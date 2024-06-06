@@ -1,0 +1,81 @@
+{
+    "faqs": [
+      {
+        "question": "Por que os oceanos são importantes?",
+        "answer": "Os oceanos são fundamentais para a vida na Terra. Eles regulam o clima, fornecem oxigênio, são uma fonte vital de alimentos e abrigam uma vasta biodiversidade."
+      },
+      {
+        "question": "Quais são os principais problemas enfrentados pelos oceanos?",
+        "answer": "Os oceanos enfrentam diversos problemas, incluindo poluição, aquecimento global, acidificação, pesca excessiva, perda de biodiversidade e destruição de habitats marinhos."
+      },
+      {
+        "question": "O que é a acidificação dos oceanos?",
+        "answer": "A acidificação dos oceanos é um processo causado pela absorção de dióxido de carbono (CO2) da atmosfera, que reduz o pH da água do mar, afetando negativamente a vida marinha."
+      },
+      {
+        "question": "Como posso ajudar a proteger os oceanos?",
+        "answer": "Você pode ajudar a proteger os oceanos reduzindo o uso de plásticos, apoiando políticas ambientais, participando de limpezas de praias e promovendo a conscientização sobre os desafios enfrentados pelos oceanos."
+      },
+      {
+        "question": "O que é poluição marinha?",
+        "answer": "A poluição marinha inclui resíduos plásticos, produtos químicos, esgoto e outros detritos que entram nos oceanos, prejudicando a vida marinha e os ecossistemas."
+      },
+      {
+        "question": "Como o aquecimento global afeta os oceanos?",
+        "answer": "O aquecimento global causa o aumento da temperatura da água do mar, resultando em branqueamento de corais, alteração de habitats marinhos e aumento do nível do mar."
+      },
+      {
+        "question": "O que é o branqueamento de corais?",
+        "answer": "O branqueamento de corais ocorre quando os corais expeliam as algas simbióticas devido ao estresse, geralmente causado por temperaturas elevadas, resultando na perda de cor e eventual morte do coral."
+      },
+      {
+        "question": "O que é a sobrepesca?",
+        "answer": "A sobrepesca é a captura excessiva de peixes a uma taxa que excede a capacidade de reposição das populações, levando à diminuição das populações de peixes e à degradação dos ecossistemas marinhos."
+      },
+      {
+        "question": "Quais são os efeitos da poluição plástica nos oceanos?",
+        "answer": "A poluição plástica pode causar a morte de vida marinha que ingere ou fica emaranhada em plásticos, além de introduzir substâncias tóxicas na cadeia alimentar marinha e no ecossistema."
+      },
+      {
+        "question": "Como a perda de biodiversidade marinha afeta os oceanos?",
+        "answer": "A perda de biodiversidade marinha pode desestabilizar os ecossistemas, reduzindo a resiliência dos oceanos a mudanças ambientais e afetando os serviços ecossistêmicos que eles fornecem."
+      },
+      {
+        "question": "O que são áreas marinhas protegidas?",
+        "answer": "Áreas marinhas protegidas são regiões dos oceanos onde atividades humanas como a pesca e a mineração são restritas ou proibidas para conservar a vida marinha e os habitats."
+      },
+      {
+        "question": "Como as mudanças climáticas afetam os ecossistemas marinhos?",
+        "answer": "As mudanças climáticas afetam os ecossistemas marinhos aumentando a temperatura da água, alterando os padrões de circulação oceânica, causando a acidificação dos oceanos e elevando o nível do mar."
+      },
+      {
+        "question": "O que é microplástico e por que é um problema?",
+        "answer": "Microplásticos são pequenas partículas de plástico que resultam da degradação de produtos plásticos maiores. Eles são problemáticos porque são facilmente ingeridos pela vida marinha, introduzindo toxinas na cadeia alimentar."
+      },
+      {
+        "question": "Como os manguezais e recifes de corais ajudam a proteger as costas?",
+        "answer": "Manguezais e recifes de corais atuam como barreiras naturais, protegendo as costas da erosão e das tempestades, além de fornecer habitats essenciais para muitas espécies marinhas."
+      },
+      {
+        "question": "Por que os oceanos são importantes para a economia global?",
+        "answer": "Os oceanos são importantes para a economia global porque suportam indústrias como a pesca, turismo, transporte marítimo e fornecimento de recursos naturais como petróleo e gás."
+      },
+      {
+        "question": "O que é a pesca sustentável?",
+        "answer": "A pesca sustentável é uma prática que visa garantir que a captura de peixes seja feita de maneira a não comprometer a capacidade de reposição das populações de peixes e a saúde dos ecossistemas marinhos."
+      },
+      {
+        "question": "Quais são os impactos da mineração em alto mar nos oceanos?",
+        "answer": "A mineração em alto mar pode causar danos significativos aos ecossistemas marinhos, incluindo a destruição de habitats, poluição e impactos negativos na biodiversidade marinha."
+      },
+      {
+        "question": "Como a urbanização costeira afeta os oceanos?",
+        "answer": "A urbanização costeira pode levar à destruição de habitats marinhos, poluição das águas costeiras e aumento da pressão sobre os recursos marinhos devido ao crescimento da população e atividades humanas."
+      },
+      {
+        "question": "O que são espécies invasoras marinhas e por que são um problema?",
+        "answer": "Espécies invasoras marinhas são organismos que são introduzidos em novos habitats onde não têm predadores naturais, podendo causar desequilíbrios ecológicos e ameaçar as espécies nativas."
+      }
+    ]
+  }
+  
