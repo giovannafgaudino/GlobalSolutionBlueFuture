@@ -10,7 +10,6 @@ function HomeContent() {
             <main className="home">
                 <section className='main'>
                     <section className='content'>
-
                         <video src={VideoOceano} autoPlay loop muted></video>
                         {/* <iframe src="https://player.vimeo.com/video/953618137?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
                             frameborder="0" allow="autoplay; fullscreen; clipboard-write" title="VideoOceano">
