@@ -1,0 +1,87 @@
+{
+  "contato": [
+    {
+      "title": "Importância dos Oceanos",
+      "description": "Os oceanos são vitais para a saúde do nosso planeta e a sobrevivência de inúmeras espécies.",
+      "content": [
+        {
+          "topic": "Regulação do Clima",
+          "text": "Os oceanos absorvem a maior parte do calor do sol e distribuem-no pelo planeta através de correntes oceânicas, ajudando a regular o clima global.",
+          "source": "https://climate.nasa.gov/news/2841/the-oceans-carbon-balance/"
+        },
+        {
+          "topic": "Produção de Oxigênio",
+          "text": "O fitoplâncton, que vive na superfície dos oceanos, realiza a fotossíntese e produz cerca de 50% do oxigênio da Terra.",
+          "source": "https://oceanservice.noaa.gov/facts/oceanoxygen.html"
+        },
+        {
+          "topic": "Fonte de Alimentos",
+          "text": "Milhões de pessoas dependem dos oceanos como sua principal fonte de proteína através da pesca e da aquicultura.",
+          "source": "https://www.fisheries.noaa.gov/national/sustainable-fisheries/importance-marine-fisheries"
+        },
+        {
+          "topic": "Biodiversidade",
+          "text": "Os oceanos abrigam uma enorme variedade de vida marinha, desde pequenos organismos como o plâncton até grandes mamíferos como baleias.",
+          "source": "https://www.un.org/sustainabledevelopment/blog/2019/05/save-our-ocean/"
+        },
+        {
+          "topic": "Economia",
+          "text": "Setores como pesca, turismo, transporte marítimo e energia (como petróleo e gás) são fundamentais para a economia global e dependem diretamente dos oceanos.",
+          "source": "https://www.worldbank.org/en/news/feature/2017/06/08/the-ocean-economy-10-things-you-should-know"
+        }
+      ]
+    },
+    {
+      "title": "Principais problemas enfrentados pelos oceanos",
+      "description": "Os oceanos enfrentam vários desafios significativos causados por atividades humanas.",
+      "content": [
+        {
+          "topic": "Poluição",
+          "text": "A poluição marinha é um dos maiores problemas enfrentados pelos oceanos. Plásticos, produtos químicos tóxicos, esgoto e outros resíduos são despejados nos oceanos, causando danos à vida marinha e aos ecossistemas.",
+          "source": "https://www.nationalgeographic.org/encyclopedia/marine-pollution/, https://oceanservice.noaa.gov/hazards/marinedebris/plastics.html"
+        },
+        {
+          "topic": "Aquecimento Global",
+          "text": "As emissões de gases de efeito estufa estão causando o aquecimento dos oceanos, levando à destruição de recifes de corais e à alteração dos habitats marinhos. Além disso, o derretimento das calotas polares está contribuindo para a elevação do nível do mar.",
+          "source": "https://www.gfdl.noaa.gov/global-warming-and-hurricanes/, https://www.climate.gov/news-features/understanding-climate/climate-change-ocean-heat-content"
+        },
+        {
+          "topic": "Sobrepesca",
+          "text": "A pesca excessiva está esgotando as populações de peixes em todo o mundo, o que não só afeta as espécies alvo, mas também os ecossistemas marinhos e as comunidades que dependem da pesca para sua subsistência.",
+          "source": "https://www.worldwildlife.org/threats/overfishing, https://www.fao.org/state-of-fisheries-aquaculture"
+        },
+        {
+          "topic": "Acidificação dos Oceanos",
+          "text": "O aumento das concentrações de dióxido de carbono (CO₂) na atmosfera está levando à acidificação dos oceanos, o que afeta a vida marinha, especialmente organismos com conchas e esqueletos de carbonato de cálcio, como corais e moluscos.",
+          "source": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification, https://www.nationalgeographic.com/environment/oceans/critical-issues-ocean-acidification/"
+        }
+      ]
+    },
+    {
+      "title": "O que podemos fazer para ajudar?",
+      "description": "Proteger os oceanos é uma responsabilidade compartilhada por todos.",
+      "content": [
+        {
+          "topic": "Reduzir o Uso de Plásticos",
+          "text": "Evitar plásticos descartáveis e optar por alternativas reutilizáveis.",
+          "source": "https://www.nationalgeographic.com/environment/2018/07/news-how-to-reduce-plastic-waste/"
+        },
+        {
+          "topic": "Apoiar Políticas Ambientais",
+          "text": "Apoiar e pressionar por políticas que protejam os oceanos e combatam as mudanças climáticas.",
+          "source": "https://oceanconservancy.org/protecting-the-arctic/why-policy-matters/"
+        },
+        {
+          "topic": "Praticar a Pesca Sustentável",
+          "text": "Escolher frutos do mar provenientes de práticas de pesca sustentável.",
+          "source": "https://www.theguardian.com/lifeandstyle/2017/oct/25/sustainable-seafood-how-to-cook-a-more-sustainable-fish-dinner"
+        },
+        {
+          "topic": "Educar-se e Educar os Outros",
+          "text": "Aprender mais sobre os problemas que os oceanos enfrentam e espalhar essa consciência.",
+          "source": "https://www.un.org/sustainabledevelopment/oceans/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "title": "Dia Mundial dos Oceanos 2024",
+      "date": "2024-06-08",
+      "location": "Online",
+      "description": "Celebre o Dia Mundial dos Oceanos com palestras, workshops e atividades virtuais que destacam a importância dos oceanos e ações de preservação."
+    },
+    {
+      "title": "Workshop: Redução de Plásticos nos Oceanos",
+      "date": "2024-07-15",
+      "location": "Rio de Janeiro, Brasil",
+      "description": "Participe deste workshop para aprender sobre estratégias eficazes para reduzir a poluição plástica nos oceanos e como você pode contribuir."
+    },
+    {
+      "title": "Conferência Internacional sobre Conservação Marinha",
+      "date": "2024-09-22",
+      "location": "Lisboa, Portugal",
+      "description": "Reúna-se com especialistas em conservação marinha para discutir as últimas pesquisas e estratégias para proteger os ecossistemas marinhos."
+    },
+    {
+      "title": "Limpeza de Praia e Ação Comunitária",
+      "date": "2024-08-05",
+      "location": "Sydney, Austrália",
+      "description": "Junte-se a nós em um dia de limpeza de praia e atividades educacionais para promover a conservação marinha e a importância de praias limpas."
+    }
+  ]
+}
