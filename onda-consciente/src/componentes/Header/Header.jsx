@@ -14,6 +14,7 @@ function Header({ menuItems }) {
                             <p>Surfando na consciência ambiental para um futuro sustentável.</p>
                         </div>
                     </section>
+
                     <div className="nav-menu">
                         {menuItems.map((menuItem, index) => (
                             <div className="menuItem" key={index}>
@@ -30,5 +31,4 @@ function Header({ menuItems }) {
         </>
     )
 }
-
 export default Header
