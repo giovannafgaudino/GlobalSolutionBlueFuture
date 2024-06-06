@@ -465,6 +465,136 @@ header .Logo .title p {
   border-radius: 10px;
 }
 
+.contato {
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.contato .contato-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+  gap: 1rem;
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  .contato .contato-content {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 576px) {
+  .contato .contato-content {
+    grid-template-columns: 1fr;
+  }
+}
+.contato .contato-content .contato-card {
+  background-color: transparent;
+  border: none;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.contato .contato-content .contato-card .contato-item {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: orange;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: justify;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+}
+.contato .contato-content .contato-card .contato-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.contato .contato-content .contato-card .contato-item .contato-carousel {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.contato .contato-content .contato-card .contato-item .contato-carousel .topic {
+  color: rgb(223, 239, 253);
+  text-align: center;
+}
+.contato .engajamento-comunitario-section {
+  gap: 1.5rem;
+}
+.contato .engajamento-comunitario-section .volutariados {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  .contato .engajamento-comunitario-section .volutariados {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 576px) {
+  .contato .engajamento-comunitario-section .volutariados {
+    grid-template-columns: 1fr;
+  }
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: transparent;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border: none;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card .text {
+  text-align: justify;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card img {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  width: 100%;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card .card-A {
+  background-color: orange;
+  border-radius: 10px;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card .card-A a {
+  background-color: #4169e1;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card .card-B {
+  color: white;
+  background-color: #4169e1;
+  border-radius: 10px;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card .card-B a {
+  background-color: orange;
+}
+.contato .engajamento-comunitario-section .volutariados .volutariados-card a {
+  text-decoration: none;
+  padding: 1rem;
+  border-radius: 10px;
+  color: white;
+}
+.contato .engajamento-comunitario-section .eventos-section {
+  background-color: #608dc9;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 10px;
+}
+.contato .engajamento-comunitario-section .eventos-section .eventos-item {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 70%;
+  margin: 0 auto;
+}
+
 footer {
   position: relative;
   height: 100%;

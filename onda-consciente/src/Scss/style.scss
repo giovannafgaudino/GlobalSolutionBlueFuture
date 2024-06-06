@@ -415,6 +415,119 @@ header {
     }
   }
 }
+.contato {
+  width: 85%;
+  margin: 0 auto;
+  @include mixins.py(1rem, 1rem);
+  .contato-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+    gap: 1rem;
+    @include mixins.breakpoint(medium) {
+      grid-template-columns: 1fr 1fr;
+    }
+    @include mixins.breakpoint(small) {
+      grid-template-columns: 1fr;
+    }
+    .contato-card {
+      background-color: transparent;
+      border: none;
+      height: fit-content;
+      .contato-item {
+        @include mixins.py(1rem, 1rem);
+        // @include mixins.px(1.5rem, 1.5rem);
+        background-color: $color-orange;
+        gap: 1.5rem;
+        @include mixins.my(1rem, 1rem);
+        text-align: justify;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s, box-shadow 0.3s;
+        text-align: center;
+        &:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        .contato-carousel {
+          @include mixins.px(3rem, 3rem);
+          @include mixins.py(2rem, 2rem);
+          .topic {
+            color: $color-blue-lighter;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+  .engajamento-comunitario-section {
+    // display: grid;
+    // grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    .volutariados {
+      @include mixins.py(1rem, 1rem);
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      gap: 1rem;
+      @include mixins.breakpoint(medium) {
+        grid-template-columns: 1fr 1fr;
+      }
+      @include mixins.breakpoint(small) {
+        grid-template-columns: 1fr;
+      }
+      .volutariados-card {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: transparent;
+        @include mixins.py(1rem, 1rem);
+        border: none;
+
+        .text {
+          text-align: justify;
+          @include mixins.py(1rem, 1rem);
+        }
+        img {
+          @include mixins.py(1rem, 1rem);
+          width: 100%;
+        }
+        .card-A {
+          background-color: $color-orange;
+          border-radius: 10px;
+          a {
+            background-color: $color-blue;
+          }
+        }
+        .card-B {
+          color: $color-white;
+          background-color: $color-blue;
+          border-radius: 10px;
+          a {
+            background-color: $color-orange;
+          }
+        }
+        a {
+          text-decoration: none;
+          padding: 1rem;
+          border-radius: 10px;
+          color: $color-white;
+        }
+      }
+    }
+    .eventos-section {
+      background-color: $color-blue-light;
+      @include mixins.py(1rem, 1rem);
+      border-radius: 10px;
+      .eventos-item {
+        @include mixins.py(1rem, 1rem);
+        @include mixins.px(1rem, 1rem);
+
+        width: 70%;
+        margin: 0 auto;
+      }
+    }
+  }
+}
 footer {
   position: relative;
   height: 100%;
