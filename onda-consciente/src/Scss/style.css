@@ -383,6 +383,88 @@ header .Logo .title p {
   margin: 0 auto;
 }
 
+.login {
+  width: 85%;
+  margin: 0 auto;
+  gap: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.login section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+@media (max-width: 576px) {
+  .login section {
+    grid-template-columns: 1fr;
+  }
+}
+.login section .login-content {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: #608dc9;
+  padding: 1rem;
+  border-radius: 10px;
+  gap: 1rem;
+  text-align: center;
+  align-items: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.login section .login-content:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  .login section .login-content {
+    width: 95%;
+  }
+}
+.login section .login-content form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.login section .login-content form input,
+.login section .login-content form button {
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  width: 90%;
+  margin: 0 auto;
+}
+.login section .login-content form button {
+  background-color: orange;
+  padding: 0.5rem;
+}
+.login section .login-content .btn-google {
+  width: 100%;
+  justify-content: center;
+}
+.login section .login-content .btn-google button {
+  width: 100%;
+}
+.login section .login-content .login-google {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 10px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  width: 101%;
+}
+.login section .login-content .login-google img {
+  border-radius: 10px;
+}
+
 footer {
   position: relative;
   height: 100%;

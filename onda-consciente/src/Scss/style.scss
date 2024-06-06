@@ -336,6 +336,85 @@ header {
     }
   }
 }
+.login {
+  width: 85%;
+  margin: 0 auto;
+  // display: grid;
+  // grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  @include mixins.py(1rem, 1rem);
+  section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    @include mixins.breakpoint(small) {
+      grid-template-columns: 1fr;
+    }
+    .login-content {
+      display: flex;
+      flex-direction: column;
+      // grid-template-columns: 1fr 1fr;
+      width: 85%;
+      height: fit-content;
+      margin: 0 auto;
+      background-color: $color-blue-light;
+      padding: 1rem;
+      border-radius: 10px;
+      gap: 1rem;
+      text-align: center;
+      align-items: center;
+      transition: transform 0.3s, box-shadow 0.3s;
+      @include mixins.py(0.5rem, 0.5rem);
+
+      &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      }
+      @include mixins.breakpoint(medium) {
+        width: 95%;
+      }
+      form {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        input,
+        button {
+          border: none;
+          border-radius: 10px;
+          text-align: center;
+          background-color: white;
+          width: 90%;
+          margin: 0 auto;
+        }
+        button {
+          background-color: $color-orange;
+          padding: 0.5rem;
+        }
+      }
+      .btn-google {
+        width: 100%;
+        justify-content: center;
+        // padding-left: 26%;
+        // @include mixins.mx(20%, 15%);
+        button {
+          width: 100%;
+        }
+      }
+      .login-google {
+        @include mixins.py(0.5rem, 0.5rem);
+        border-radius: 10px;
+        background-color: $color-white;
+        justify-content: center;
+        align-items: center;
+        width: 101%;
+        img {
+          border-radius: 10px;
+        }
+      }
+    }
+  }
+}
 footer {
   position: relative;
   height: 100%;
