@@ -50,6 +50,7 @@ function LoginContent() {
                         <div>
                             <h3> Já possui uma conta? </h3>
                             <p>Inicie sua sessão</p>
+                            
                             <form onSubmit={handleSubmit}>
                                 <input
                                     type="email"
