@@ -25,7 +25,7 @@ function HomeContent() {
                             </div>
                             <div className='box-B'>
                                 <h3>Como estamos enfrentando esses desafios?</h3>
-                                <p>Na Voz dos Corais, estamos comprometidos em ser parte da solução. Usando inovação e tecnologia, estamos monitorando em tempo real a saúde dos oceanos, educando comunidades costeiras e incentivando ações práticas para proteger e restaurar esses precários ecossistemas. Junte-se a nós nessa missão vital.</p>
+                                <p>Na Onda Consciente, estamos comprometidos em ser parte da solução. Usando inovação e tecnologia, estamos monitorando em tempo real a saúde dos oceanos, educando comunidades costeiras e incentivando ações práticas para proteger e restaurar esses precários ecossistemas. Junte-se a nós nessa missão vital.</p>
                             </div>
                         </div>
                     </section>
